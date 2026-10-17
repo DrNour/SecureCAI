@@ -1,0 +1,1 @@
+streamlit>=1.36,<2\npandas>=2.0,<3\nnumpy>=1.26,<3\nav>=12,<14\nstreamlit-webrtc>=0.47,<1\nfaster-whisper>=1.0,<2\n
