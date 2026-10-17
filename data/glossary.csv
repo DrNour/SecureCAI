@@ -1,0 +1,8 @@
+source_term,target_term,category,approved,notes
+joint statement,البيان المشترك,diplomatic,true,Use the approved institutional equivalent
+delegation,الوفد,institutional,true,Check the specific delegation name
+updated,المحدّث,modality,true,Retain the temporal meaning
+may,قد,modality,true,Do not strengthen into a definite statement
+must,يجب,modality,true,Preserve obligation
+ceasefire,وقف إطلاق النار,security,true,Verify context and scope
+representative,ممثل,institutional,true,Check rank and institutional role
