@@ -5,3 +5,4 @@ av>=12,<14
 streamlit-webrtc>=0.47,<1
 faster-whisper>=1.0,<2
 tornado==6.4.2
+streamlit-autorefresh>=1.0.1,<2
